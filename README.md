@@ -14,7 +14,7 @@
     <a href="#"><img alt="Idriss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ToreRisinger&show_icons=true&include_all_commits=true&count_private=true" height="200"/></a>
     <a href="#"><img alt="Thiago's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToreRisinger&langs_count=10&layout=compact" height="200"/></a>
     <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of.</i>
   </div>
 
   <hr/>
